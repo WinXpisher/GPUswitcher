@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_GPUswitcher_FILE /home/winxp/Qt_proj/GPUswitcher/build/Desktop_Qt_6_10_1-Debug/GPUswitcher)
+set(__QT_DEPLOY_TARGET_GPUswitcher_TYPE EXECUTABLE)
