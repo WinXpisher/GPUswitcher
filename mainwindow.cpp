@@ -8,7 +8,7 @@ MainWindow::MainWindow(QWidget *parent)
     QWidget *centralWidget = new QWidget(this);
     setCentralWidget(centralWidget);
 
-    setWindowTitle("Test app");
+    setWindowTitle("GPUswitcher");
     setFixedSize(300, 300);
 
     QVBoxLayout *mainLayout = new QVBoxLayout(centralWidget);
