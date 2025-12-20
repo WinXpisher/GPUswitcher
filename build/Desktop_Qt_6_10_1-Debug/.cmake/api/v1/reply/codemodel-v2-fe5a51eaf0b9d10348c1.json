@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-dbc6431c176214881f16.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GPUswitcher",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GPUswitcher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GPUswitcher-Debug-e9823f473f1adaf9ed9c.json",
+					"name" : "GPUswitcher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GPUswitcher_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GPUswitcher_autogen-Debug-ce87a9ea9572f4075f2d.json",
+					"name" : "GPUswitcher_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GPUswitcher_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GPUswitcher_autogen_timestamp_deps-Debug-a1fa62e4911ee50decf8.json",
+					"name" : "GPUswitcher_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/winxp/Qt_proj/GPUswitcher/build/Desktop_Qt_6_10_1-Debug",
+		"source" : "/home/winxp/Qt_proj/GPUswitcher"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

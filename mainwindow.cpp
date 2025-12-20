@@ -5,11 +5,12 @@
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
 {
+    setWindowTitle("GPUswitcher");
+    setWindowIcon(QIcon(":/icon.png"));
+    setFixedSize(300, 300);
+
     QWidget *centralWidget = new QWidget(this);
     setCentralWidget(centralWidget);
-
-    setWindowTitle("GPUswitcher");
-    setFixedSize(300, 300);
 
     QVBoxLayout *mainLayout = new QVBoxLayout(centralWidget);
     QGridLayout *joinedLayout = new QGridLayout();
