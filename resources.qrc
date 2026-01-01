@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>icon.png</file>
+        <file>Hybrid.png</file>
+        <file>Integrated.png</file>
     </qresource>
 </RCC>

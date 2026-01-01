@@ -3,7 +3,7 @@
 
 #include <QMainWindow>
 #include <QComboBox>
-
+#include <QStackedWidget>
 
 class MainWindow : public QMainWindow
 {
@@ -13,8 +13,10 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 private slots:
+    // Function to process button signal
     void onApplyButtonClicked();
 private:
     QComboBox *mainCombo;
+    QStackedWidget *imageStack;
 };
 #endif // MAINWINDOW_H

@@ -158,6 +158,7 @@
   /home/winxp/Qt/6.10.1/gcc_64/include/QtGui/qwindowdefs.h \
   /home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/QComboBox \
   /home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/QMainWindow \
+  /home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/QStackedWidget \
   /home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qabstractitemdelegate.h \
   /home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qabstractslider.h \
   /home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qabstractspinbox.h \
@@ -167,6 +168,7 @@
   /home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qrubberband.h \
   /home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qsizepolicy.h \
   /home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qslider.h \
+  /home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qstackedwidget.h \
   /home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qstyle.h \
   /home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qstyleoption.h \
   /home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qtabbar.h \

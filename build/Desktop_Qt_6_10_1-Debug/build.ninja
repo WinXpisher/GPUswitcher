@@ -191,7 +191,7 @@ build GPUswitcher_autogen/timestamp GPUswitcher_autogen/mocs_compilation.cpp | $
 #############################################
 # Custom command for GPUswitcher_autogen/EWIEGA46WW/qrc_resources.cpp
 
-build GPUswitcher_autogen/EWIEGA46WW/qrc_resources.cpp | ${cmake_ninja_workdir}GPUswitcher_autogen/EWIEGA46WW/qrc_resources.cpp: CUSTOM_COMMAND /home/winxp/Qt_proj/GPUswitcher/resources.qrc CMakeFiles/GPUswitcher_autogen.dir/AutoRcc_resources_EWIEGA46WW_Info.json /home/winxp/Qt_proj/GPUswitcher/icon.png /home/winxp/Qt/6.10.1/gcc_64/libexec/rcc /home/winxp/Qt/6.10.1/gcc_64/libexec/rcc || GPUswitcher_autogen GPUswitcher_autogen_timestamp_deps
+build GPUswitcher_autogen/EWIEGA46WW/qrc_resources.cpp | ${cmake_ninja_workdir}GPUswitcher_autogen/EWIEGA46WW/qrc_resources.cpp: CUSTOM_COMMAND /home/winxp/Qt_proj/GPUswitcher/resources.qrc CMakeFiles/GPUswitcher_autogen.dir/AutoRcc_resources_EWIEGA46WW_Info.json /home/winxp/Qt_proj/GPUswitcher/Integrated.png /home/winxp/Qt_proj/GPUswitcher/Hybrid.png /home/winxp/Qt_proj/GPUswitcher/icon.png /home/winxp/Qt/6.10.1/gcc_64/libexec/rcc /home/winxp/Qt/6.10.1/gcc_64/libexec/rcc || GPUswitcher_autogen GPUswitcher_autogen_timestamp_deps
   COMMAND = cd /home/winxp/Qt_proj/GPUswitcher/build/Desktop_Qt_6_10_1-Debug && /home/winxp/Qt/Tools/CMake/bin/cmake -E cmake_autorcc /home/winxp/Qt_proj/GPUswitcher/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/GPUswitcher_autogen.dir/AutoRcc_resources_EWIEGA46WW_Info.json Debug
   DESC = Automatic RCC for resources.qrc
   restat = 1

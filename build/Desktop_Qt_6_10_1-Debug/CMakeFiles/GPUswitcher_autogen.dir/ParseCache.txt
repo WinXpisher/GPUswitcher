@@ -159,6 +159,7 @@
  mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtGui/qwindowdefs.h
  mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/QComboBox
  mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/QMainWindow
+ mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/QStackedWidget
  mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qabstractitemdelegate.h
  mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qabstractslider.h
  mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qabstractspinbox.h
@@ -168,6 +169,7 @@
  mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qrubberband.h
  mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qsizepolicy.h
  mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qslider.h
+ mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qstackedwidget.h
  mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qstyle.h
  mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qstyleoption.h
  mdp:/home/winxp/Qt/6.10.1/gcc_64/include/QtWidgets/qtabbar.h

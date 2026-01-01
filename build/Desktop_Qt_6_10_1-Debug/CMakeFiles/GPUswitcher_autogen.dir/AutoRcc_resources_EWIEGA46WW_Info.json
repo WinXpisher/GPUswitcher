@@ -7,7 +7,12 @@
 	"CROSS_CONFIG" : false,
 	"GENERATOR" : "Ninja",
 	"INCLUDE_DIR" : "/home/winxp/Qt_proj/GPUswitcher/build/Desktop_Qt_6_10_1-Debug/GPUswitcher_autogen/include",
-	"INPUTS" : [ "/home/winxp/Qt_proj/GPUswitcher/icon.png" ],
+	"INPUTS" : 
+	[
+		"/home/winxp/Qt_proj/GPUswitcher/Integrated.png",
+		"/home/winxp/Qt_proj/GPUswitcher/Hybrid.png",
+		"/home/winxp/Qt_proj/GPUswitcher/icon.png"
+	],
 	"LOCK_FILE" : "/home/winxp/Qt_proj/GPUswitcher/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/GPUswitcher_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,
 	"OPTIONS" : [ "-name", "resources" ],
