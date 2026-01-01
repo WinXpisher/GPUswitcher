@@ -21,7 +21,7 @@ This app was created to switch modes between Hybrid(Nvidia GPU + gCPU) and Integ
    git clone https://github.com/WinXpisher/GPUswitcher.git
 2. Move to Ready catalog:
    ```bash
-   cd GPUswitcher-main/Ready
+   cd GPUswitcher/Ready
 3. Run the program:
    ```bash
    ./GPUswitcher.AppImage
