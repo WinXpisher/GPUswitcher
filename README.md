@@ -3,7 +3,7 @@
 ---
 
 **Description:**
-This app was created to switch modes between Hybrid(Nvidia GPU + gCPU) and Integrated(gCPU). For this, you need supergfxctl.
+This app was created to switch modes between Hybrid(Nvidia GPU + gCPU) and Integrated(gCPU). For this, you need pre-installed supergfxctl.
 
 ---
 
